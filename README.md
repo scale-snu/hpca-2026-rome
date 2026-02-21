@@ -11,3 +11,14 @@ We uploaded our presentation to YouTube: [https://youtu.be/ljx5oB3VADQ?si=hgh8Ey
 Please check the [Issues](https://github.com/scale-snu/hpca-2026-rome/issues) tab.
 We listed the questions we got after the presentation and the corresponding answers there already.
 Feel free to ask more questions through the [Issues](https://github.com/scale-snu/hpca-2026-rome/issues) tab.
+
+## How to cite
+```bibtex
+@inproceedings{hpca-2026-rome,
+  title = "{RoMe: Row Granularity Access Memory System for Large Language Models}",
+  author = {Hwayong Nam and Seungmin Baek and Jumin Kim and Michael Jaemin Kim and {Jung Ho} Ahn},
+  booktitle = {IEEE International Symposium on High-Performance Computer Architecture (HPCA)},
+  year={2026},
+  doi = {},
+}
+```
