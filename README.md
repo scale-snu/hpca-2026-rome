@@ -19,6 +19,6 @@ Feel free to ask more questions through the [Issues](https://github.com/scale-sn
   author = {Hwayong Nam and Seungmin Baek and Jumin Kim and Michael Jaemin Kim and {Jung Ho} Ahn},
   booktitle = {IEEE International Symposium on High-Performance Computer Architecture (HPCA)},
   year={2026},
-  doi = {},
+  doi = {10.1109/HPCA68181.2026.11408542},
 }
 ```
